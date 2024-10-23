@@ -21,7 +21,8 @@ No contexto emergente dos **smart environments** (Cities, Health Care, Social, e
 
 Pretende-se que o aluno defina o objetivo a explorar no trabalho, que poderá ser real ou imaginário. Será disponibilizado um URL onde cada aluno deverá registar o tema do trabalho e a plataforma que pretende utilizar.
 
-
+ ### Realizado por
+   - Gonçalo Costa, 26024
  # Practical Assignment I - Information Systems Integration (ISI) Course
 
 ## INTRODUCTION
@@ -44,3 +45,7 @@ Are examples of scenarios where ETL processes may play a key role.
 In the emerging context of **smart environments** (Cities, Health Care, Social, etc.), the relevance of these types of solutions is evident and growing. The integration of so-called intelligent solutions, which react to events in existing or even legacy processes, are constant challenges.
 
 Students are expected to define the objective to be explored in the project, which can be real or imaginary. A URL will be provided where each student must register the project topic and the platform they intend to use.
+
+
+### Developed by 
+- Gonçalo Costa, 26024
