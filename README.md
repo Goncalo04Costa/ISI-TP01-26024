@@ -21,16 +21,3 @@ Uma vez que os processos de negócio não param de se reconfigurar, as empresas 
    - Gonçalo Costa, 26024
  # Practical Assignment I - Information Systems Integration (ISI) Course
 
-## INTRODUCTION
-
-This practical assignment for the **Information Systems Integration (ISI)** course focuses on the application and experimentation of tools in **ETL** (Extract, Transformation, and Load) processes, inherent to Information Systems Integration processes at the data level. Students are expected to develop ETL processes using custom scripts or by utilizing available tools such as **Pentaho Kettle**, **Microsoft SQL Server Integration Services (MSSIS)**, **Knime**, **Talend Open Studio**, among others. Complementary tools like **Node-RED**, **HomeAssistant**, or similar, may also be explored and integrated into the processes.
-
-## MOTIVATION
-
-As business processes continuously reconfigure themselves, companies face constant challenges in analyzing and acquiring new IT solutions. The need to capitalize on previous acquisitions, both due to the financial investment involved and the dependency on processes and data, leads companies to seek ways to analyze value and minimize the impact of new acquisitions.
-
-
-
-
-### Developed by 
-- Gonçalo Costa, 26024
