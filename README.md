@@ -9,10 +9,11 @@ Com este trabalho da Disciplina de Integração de Sistemas de Informação (ISI
 Uma vez que os processos de negócio não param de se reconfigurar, as empresas enfrentam desafios constantes de análise e aquisição de novas soluções informáticas. A necessidade de rentabilizar aquisições anteriores, tanto pelo investimento financeiro envolvido como pela dependência dos processos e dos dados, faz com que as empresas procurem formas de obter mais-valias e minimizar o impacto das novas aquisições.
 
 ### Ficheiros
-[Transformation 1.ktr](https://github.com/Goncalo04Costa/ISI-TP01-26024/blob/main/Transformation%201.ktr)
-[Transformation 2.ktr](https://github.com/Goncalo04Costa/ISI-TP01-26024/blob/main/Transformation%202.ktr)
-[Transformation_HTMLasAmbient](https://github.com/Goncalo04Costa/ISI-TP01-26024/blob/main/htmlAsAmbient.ktr)
-[JOB](https://github.com/Goncalo04Costa/ISI-TP01-26024/blob/main/Job%201.kjb)
+- [Transformation 1.ktr](https://github.com/Goncalo04Costa/ISI-TP01-26024/blob/main/Transformation%201.ktr)
+
+- [Transformation 2.ktr](https://github.com/Goncalo04Costa/ISI-TP01-26024/blob/main/Transformation%202.ktr)
+- [Transformation_HTMLasAmbient](https://github.com/Goncalo04Costa/ISI-TP01-26024/blob/main/htmlAsAmbient.ktr)
+- [JOB](https://github.com/Goncalo04Costa/ISI-TP01-26024/blob/main/Job%201.kjb)
 
  ### Realizado por
    - Gonçalo Costa, 26024
