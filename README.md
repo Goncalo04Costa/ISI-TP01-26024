@@ -19,5 +19,3 @@ Uma vez que os processos de negócio não param de se reconfigurar, as empresas 
 
  ### Realizado por
    - Gonçalo Costa, 26024
- # Practical Assignment I - Information Systems Integration (ISI) Course
-
